@@ -1,0 +1,4 @@
+device,model,trace_file,label_file
+rtx3090,resnet18,trace_01.csv,label_01.csv
+jetson_nano,mobilenetv2,trace_12.csv,label_12.csv
+rx580,vgg11,trace_34.csv,label_34.csv
