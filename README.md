@@ -3,7 +3,7 @@
 This repository contains code and data for our paper:
 
 > **Zero-Shot Deep Neural Network Model Extraction Across Heterogeneous Devices Using Side-Channel Translation and Foundation Models**  
-> *Amal Bajpayee, Member, IEEE*
+> *Amal Bajpayee,4th year IPGMtech IIITM GWALIOR*
 
 ## 🔥 Highlights
 
